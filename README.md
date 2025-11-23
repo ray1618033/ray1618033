@@ -4,4 +4,5 @@
 🛠 Django · Flutter · PostgreSQL · TensorFlow
 🌱 Currently diving deep into Machine Learning & Distributed Systems
 🏢 Building scalable systems in the tech industry
+
 ray1618033@pm.me
